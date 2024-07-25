@@ -1,0 +1,43 @@
+.col {
+  padding: 5px;
+  align-self: center;
+  margin: 15px;
+  text-align: left;
+}
+/*used for most of the columns*/
+
+.App {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+/*applies to whole page*/
+
+.border {
+  padding: 15px;
+  text-align: left;
+  margin: 10px;
+  background-color: rgb(47, 45, 45);
+  border-color: 2px, solid, rgb(47, 45, 45); /*border color wouldn't change*/
+  font-size: 22px;
+}
+.border:hover {
+  background-color: rgb(98, 95, 95);
+}
+/*used at question section*/
+
+.email {
+  outline: solid grey 1px;
+  text-align: left;
+  color: grey;
+  padding: 10px;
+}
+/*replicating the email textbox*/
+
+.sub {
+  padding: 3px;
+  align-self: center;
+  margin: 5px;
+  text-align: center;
+}
+/*used on columns I didn't want to align left*/
