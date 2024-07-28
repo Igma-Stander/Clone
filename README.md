@@ -1,18 +1,24 @@
-# Getting Started with Create React App
+# Clone
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## My Project
 
-In the project directory, you can run:
+In this project I made a static non-clickable clone of the Netflix website.
 
+## Installation
+
+In the command line interface, you can do the following:
+
+### `npm install`
+This installs the project dependencies.
+### `npm install --save react-bootstrap bootstrap`
+This installs the bootstrap needed for styling.
+## Usage
+To start the application type the following in the command line interface:
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Runs the app in the development mode.
 
 ## Render
 
